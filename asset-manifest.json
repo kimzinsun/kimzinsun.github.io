@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97a016d8.css",
+    "main.js": "/static/js/main.44020e77.js",
+    "static/js/453.3f80a5a6.chunk.js": "/static/js/453.3f80a5a6.chunk.js",
+    "static/media/DungGeunMo.ttf": "/static/media/DungGeunMo.1ebba65b2b010a1e45d7.ttf",
+    "index.html": "/index.html",
+    "main.97a016d8.css.map": "/static/css/main.97a016d8.css.map",
+    "main.44020e77.js.map": "/static/js/main.44020e77.js.map",
+    "453.3f80a5a6.chunk.js.map": "/static/js/453.3f80a5a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a016d8.css",
+    "static/js/main.44020e77.js"
+  ]
+}
