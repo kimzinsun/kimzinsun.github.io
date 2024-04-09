@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "DungGeunMo";
+  src: url("./fonts/DungGeunMo.ttf");
+}
+
+div {
+  font-family: "DungGeunMo";
+}
